@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YouTubeVideos", "week04\You
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineOrdering", "week04\OnlineOrdering\OnlineOrdering.csproj", "{E1B72617-DE50-4DD7-900B-8C51A2CE59DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptureMemorizeDesign", "week03\ScriptureMemorizeDesign\ScriptureMemorizeDesign.csproj", "{EE9EE00C-397E-4184-B516-7FBD02BE8F07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +129,10 @@ Global
 		{E1B72617-DE50-4DD7-900B-8C51A2CE59DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1B72617-DE50-4DD7-900B-8C51A2CE59DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1B72617-DE50-4DD7-900B-8C51A2CE59DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9EE00C-397E-4184-B516-7FBD02BE8F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9EE00C-397E-4184-B516-7FBD02BE8F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9EE00C-397E-4184-B516-7FBD02BE8F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9EE00C-397E-4184-B516-7FBD02BE8F07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -149,6 +155,7 @@ Global
 		{6D76A1CF-EC33-4A11-A4D1-875E3BC9B0F4} = {F02862B3-F181-4F4C-9998-E7B60A408DE0}
 		{A6709D86-1F90-495D-8153-747314A4A638} = {DF91008F-F53E-47FA-8705-F7975A484AC4}
 		{E1B72617-DE50-4DD7-900B-8C51A2CE59DC} = {DF91008F-F53E-47FA-8705-F7975A484AC4}
+		{EE9EE00C-397E-4184-B516-7FBD02BE8F07} = {F02862B3-F181-4F4C-9998-E7B60A408DE0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F0FE697C-A888-4331-AE3F-A57311A5E554}
