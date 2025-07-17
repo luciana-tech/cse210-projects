@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-
+// Exceeding requirements: Program chooses scriptures at random to present to the user.
 class Program
 {
     static void Main()
