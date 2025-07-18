@@ -4,9 +4,6 @@ using System.Collections.Generic;
 public class Journal
 {
     private List<Entry> _entries = new List<Entry>();
-    private List<string> _prompts = new List<string>(); 
-
-    private Random _random = new Random();
 
     public void WriteNewEntry()
     {
