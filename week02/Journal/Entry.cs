@@ -9,8 +9,8 @@ public class Entry
         
     }
 
-    public override string ToString()
+    public void Display()
     {
-        return string.Empty;
+        
     }
 }
